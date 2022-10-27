@@ -20,7 +20,7 @@ work_distribution = [
       "2022": 246,
       "name": "과천여고",
       "area": "과천",
-      "time": "8시 40분까지",
+      "time": "8시 30분까지",
       "prefix" : "gc_gcy_",
       "sequence": 1,
       "numOfBox" :{
@@ -35,7 +35,7 @@ work_distribution = [
       "2022": 353,
       "name": "과천중앙고",
       "area": "과천",
-      "time": "8시 50분",
+      "time": "8시 40분",
       "prefix" : "gc_gcj_",
       "sequence": 3,
       "numOfBox" :{
@@ -95,7 +95,7 @@ work_distribution = [
       "2022": 630,
       "name": "흥진고",
       "area": "산본",
-      "time": "8시 50분",
+      "time": "8시 40분",
       "prefix" : "sb_hj_",
       "sequence": 3,
       "numOfBox" :{
@@ -261,7 +261,7 @@ work_distribution = [
       "2022": 517,
       "name": "우성고",
       "area": "하평촌",
-      "time": "8시 50분",
+      "time": "8시 40분",
       "prefix" : "hpc_us_",
       "sequence": 5,
       "numOfBox" :{
