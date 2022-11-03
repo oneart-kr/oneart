@@ -67,7 +67,7 @@ class ReleaseDetail{
         this._path = './src/img/web/note_release/';
         this._thum = './src/img/thum/note_release/';
         this._year = 2022;
-        this._numOf = 180;
+        this._numOf = 200;
         this._box;
     }
     getContent(){
