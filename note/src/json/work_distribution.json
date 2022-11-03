@@ -235,8 +235,8 @@ work_distribution = [
       "prefix" : "hpc_mr_",
       "sequence": 4,
       "numOfBox" :{
-        "front": 40,
-        "back" :60
+        "front": 60,
+        "back" :40
       },
       "img" : ["front.png", "back.png","map.png"]
     },
