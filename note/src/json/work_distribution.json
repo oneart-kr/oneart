@@ -22,7 +22,7 @@ work_distribution = [
       "area": "과천",
       "time": "8시 30분까지",
       "prefix" : "gc_gcy_",
-      "sequence": 1,
+      "sequence": 3,
       "numOfBox" :{
         "front": 60,
         "back" :40
@@ -37,7 +37,7 @@ work_distribution = [
       "area": "과천",
       "time": "8시 40분",
       "prefix" : "gc_gcj_",
-      "sequence": 3,
+      "sequence": 1,
       "numOfBox" :{
         "front": 40,
         "back" :60
