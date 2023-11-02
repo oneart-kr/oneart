@@ -256,21 +256,6 @@ work_distribution = [
       "img" : ["front.png", "back.png","map.png"]
     },
     {
-      "2019": 838,
-      "2020": 523,
-      "2022": 517,
-      "name": "우성고",
-      "area": "하평촌",
-      "time": "8시 40분",
-      "prefix" : "hpc_us_",
-      "sequence": 5,
-      "numOfBox" :{
-        "front": 70,
-        "back" :30
-      },
-      "img" : ["front.png", "back.png","map.png"]
-    },
-    {
       "2019": 1173,
       "2020": 759,
       "2022": 730,
