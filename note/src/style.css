@@ -1,19 +1,3 @@
-@font-face {
-  src: url("font/NanumSquareR.otf");
-  font-family: NanumSquareR;
-}
-@font-face {
-  src: url("font/NanumSquareOTFLight.otf");
-  font-family: NanumSquareL;
-}
-@font-face {
-  src: url("font/Arita-buriHL.otf");
-  font-family: Arita-buriHL;
-}
-@font-face {
-  src: url("font/BMHANNAAir_otf.otf");
-  font-family: BM HANNA Air OTF;
-}
 :root {
   --grey20: hsl(0, 0%, 85%);
   --grey30: hsl(0, 0%, 80%);
@@ -961,7 +945,7 @@ dialog::-webkit-scrollbar {
 .font_30{
   font-size: 3rem;
 }
-.font_R{
+/* .font_R{
   font-family: NanumSquareR;
 }
 .font_L{
@@ -972,7 +956,7 @@ dialog::-webkit-scrollbar {
 }
 .font_B{
   font-family: Arita-buriHL;
-}
+} */
 .font_cancel{
   text-decoration: 1px line-through;
 }
