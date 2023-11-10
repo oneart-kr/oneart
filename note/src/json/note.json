@@ -83,6 +83,22 @@ oneart_note = {
           "time": "8시 50분"
       },
       {
+        "name": "군포e비즈니스고",
+        "pics": [
+            "sb_gpe_front.png",
+            "sb_gpe_map.png"
+        ],
+        "ratio": {
+            "front": 100,
+            "back": 0
+        },
+        "worker": 1,
+        "numOfStdnt": {
+            "2023": 267
+        },
+        "time": "8시 50분"
+    },
+      {
           "name": "수리고",
           "pics": [
               "sb_sr_front.png",
@@ -143,45 +159,6 @@ oneart_note = {
   ],
   "안양": [
       {
-          "name": "안양고",
-          "pics": [
-              "ay_ay_front.png",
-              "ay_ay_back.png",
-              "ay_ay_map.png"
-          ],
-          "ratio": {
-              "front": 50,
-              "back": 50
-          },
-          "worker": 2,
-          "numOfStdnt": {
-              "2019": 962,
-              "2020": 633,
-              "2022": 586,
-              "2023": 629,
-          },
-          "time": "8시 50분"
-      },
-      {
-          "name": "안양여고",
-          "pics": [
-              "ay_ayy_front.png",
-              "ay_ayy_map.png"
-          ],
-          "ratio": {
-              "front": 100,
-              "back": 0
-          },
-          "worker": 2,
-          "numOfStdnt": {
-              "2019": 709,
-              "2020": 444,
-              "2022": 385,
-              "2023": 394,
-          },
-          "time": "8시 50분"
-      },
-      {
           "name": "양명고+양명여고",
           "pics": [
               "ay_ym_front.png",
@@ -200,7 +177,62 @@ oneart_note = {
               "2023": 1168,
           },
           "time": "8시 50분"
-      }
+      },
+      {
+        "name": "안양여고",
+        "pics": [
+            "ay_ayy_front.png",
+            "ay_ayy_map.png"
+        ],
+        "ratio": {
+            "front": 100,
+            "back": 0
+        },
+        "worker": 2,
+        "numOfStdnt": {
+            "2019": 709,
+            "2020": 444,
+            "2022": 385,
+            "2023": 394,
+        },
+        "time": "8시 50분"
+    },      
+    {
+        "name": "근명고",
+        "pics": [
+            "ay_gm_front.png",
+            "ay_gm_map.png"
+        ],
+        "ratio": {
+            "front": 100,
+            "back": 0,
+        },
+        "worker": 2,
+        "numOfStdnt": {
+            "2023": 423,
+        },
+        "time": "8시 50분"
+    },
+    {
+        "name": "안양고",
+        "pics": [
+            "ay_ay_front.png",
+            "ay_ay_back.png",
+            "ay_ay_map.png"
+        ],
+        "ratio": {
+            "front": 50,
+            "back": 50
+        },
+        "worker": 2,
+        "numOfStdnt": {
+            "2019": 962,
+            "2020": 633,
+            "2022": 586,
+            "2023": 629,
+        },
+        "time": "8시 50분"
+    },
   ],
   "상평촌": [
       {
@@ -241,6 +273,22 @@ oneart_note = {
           },
           "time": "8시 40분"
       },
+      {
+        "name": "평촌경영고",
+        "pics": [
+            "spc_pcgy_front.png",
+            "spc_pcgy_map.png"
+        ],
+        "ratio": {
+            "front": 100,
+            "back": 0
+        },
+        "worker": 1,
+        "numOfStdnt": {
+            "2023": 449
+        },
+        "time": "8시 40분"
+    },
       {
           "name": "부흥고",
           "pics": [
@@ -299,6 +347,26 @@ oneart_note = {
       }
   ],
   "하평촌": [
+    {
+        "name": "백영고",
+        "pics": [
+            "hpc_by_front.png",
+            "hpc_by_back.png",
+            "hpc_by_map.png"
+        ],
+        "ratio": {
+            "front": 40,
+            "back": 60
+        },
+        "worker": 2,
+        "numOfStdnt": {
+            "2019": 1016,
+            "2020": 667,
+            "2022": 605,
+            "2023" :605
+        },
+        "time": "8시 20분"
+    },
       {
           "name": "동안고",
           "pics": [
@@ -319,6 +387,42 @@ oneart_note = {
           },
           "time": "8시 50분"
       },
+      {
+        "name": "평촌고",
+        "pics": [
+            "hpc_pc_front.png",
+            "hpc_pc_back.png",
+            "hpc_pc_map.png"
+        ],
+        "ratio": {
+            "front": 80,
+            "back": 20
+        },
+        "worker": 3,
+        "numOfStdnt": {
+            "2019": 1173,
+            "2020": 759,
+            "2022": 730,
+            "2023": 730
+        },
+        "time": "8시 35분"
+    },
+    {
+        "name": "평촌과학기술고",
+        "pics": [
+            "hpc_pcgg_front.png",
+            "hpc_pcgg_map.png"
+        ],
+        "ratio": {
+            "front": 100,
+            "back": 0
+        },
+        "worker": 1,
+        "numOfStdnt": {
+            "2023": 187
+        },
+        "time": "8시 35분"
+    },
       {
           "name": "모락고",
           "pics": [
@@ -355,26 +459,7 @@ oneart_note = {
         },
         "time": "9시"
     },
-      {
-          "name": "백영고",
-          "pics": [
-              "hpc_by_front.png",
-              "hpc_by_back.png",
-              "hpc_by_map.png"
-          ],
-          "ratio": {
-              "front": 40,
-              "back": 60
-          },
-          "worker": 2,
-          "numOfStdnt": {
-              "2019": 1016,
-              "2020": 667,
-              "2022": 605,
-              "2023" :605
-          },
-          "time": "8시 20분"
-      },
+     
       {
           "name": "우성고",
           "pics": [
@@ -395,25 +480,6 @@ oneart_note = {
           },
           "time": "8시 40분"
       },
-      {
-          "name": "평촌고",
-          "pics": [
-              "hpc_pc_front.png",
-              "hpc_pc_back.png",
-              "hpc_pc_map.png"
-          ],
-          "ratio": {
-              "front": 80,
-              "back": 20
-          },
-          "worker": 3,
-          "numOfStdnt": {
-              "2019": 1173,
-              "2020": 759,
-              "2022": 730,
-              "2023": 730
-          },
-          "time": "8시 35분"
-      }
+
   ]
 }
