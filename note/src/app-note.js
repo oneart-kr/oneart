@@ -27,7 +27,7 @@
             const {numOfStdnt, ratio} = school;
             const numOfNote = 160;
             const sendR = 70 / 100
-            const stdnt = numOfStdnt[DT.year]|| stdnt[DT.year-1];
+            const stdnt = numOfStdnt[DT.year]|| numOfSdnt[DT.year-1];
 
             const _calcBox = (type) => Math.ceil((stdnt/numOfNote)*sendR*(ratio[type]/100));
 
