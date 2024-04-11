@@ -159,6 +159,42 @@ oneart_note = {
     ],
     "안양": [
         {
+            "name": "부흥고",
+            "pics": [
+                "spc_bh_front.png",
+                "spc_bh_map.png"
+            ],
+            "ratio": {
+                "front": 100,
+                "back": 0
+            },
+            "worker": 2,
+            "numOfStdnt": {
+                "2019": 1147,
+                "2020": 731,
+                "2022": 672,
+                "2023": 672
+            },
+            "time": "8시 40분"
+        },
+        {
+            "name": "부흥중",
+            "pics": [
+                "spc_bhj_front.png",
+                "spc_bhj_map.png"
+            ],
+            "ratio": {
+                "front": 0,
+                "back": 100
+            },
+            "worker": 1,
+            "numOfStdnt": {
+                "2022": 1113,
+                "2023": 1113
+            },
+            "time": "9시"
+        },
+        {
             "name": "양명고+양명여고",
             "pics": [
                 "ay_ym_front.png",
@@ -236,6 +272,26 @@ oneart_note = {
     ],
     "상평촌": [
         {
+            "name": "평촌고",
+            "pics": [
+                "hpc_pc_front.png",
+                "hpc_pc_back.png",
+                "hpc_pc_map.png"
+            ],
+            "ratio": {
+                "front": 80,
+                "back": 20
+            },
+            "worker": 3,
+            "numOfStdnt": {
+                "2019": 1173,
+                "2020": 759,
+                "2022": 730,
+                "2023": 730
+            },
+            "time": "8시 35분"
+        },
+        {
             "name": "백운고",
             "pics": [
                 "spc_bw_front.png",
@@ -308,42 +364,7 @@ oneart_note = {
             },
             "time": "8시 40분"
         },
-        {
-            "name": "부흥고",
-            "pics": [
-                "spc_bh_front.png",
-                "spc_bh_map.png"
-            ],
-            "ratio": {
-                "front": 100,
-                "back": 0
-            },
-            "worker": 2,
-            "numOfStdnt": {
-                "2019": 1147,
-                "2020": 731,
-                "2022": 672,
-                "2023": 672
-            },
-            "time": "8시 40분"
-        },
-        {
-            "name": "부흥중",
-            "pics": [
-                "spc_bhj_front.png",
-                "spc_bhj_map.png"
-            ],
-            "ratio": {
-                "front": 0,
-                "back": 100
-            },
-            "worker": 1,
-            "numOfStdnt": {
-                "2022": 1113,
-                "2023": 1113
-            },
-            "time": "9시"
-        },
+
     ],
     "하평촌": [
         {
@@ -385,26 +406,6 @@ oneart_note = {
                 "2023": 717
             },
             "time": "8시 50분"
-        },
-        {
-            "name": "평촌고",
-            "pics": [
-                "hpc_pc_front.png",
-                "hpc_pc_back.png",
-                "hpc_pc_map.png"
-            ],
-            "ratio": {
-                "front": 80,
-                "back": 20
-            },
-            "worker": 3,
-            "numOfStdnt": {
-                "2019": 1173,
-                "2020": 759,
-                "2022": 730,
-                "2023": 730
-            },
-            "time": "8시 35분"
         },
         {
             "name": "평촌과학기술고",
@@ -478,5 +479,73 @@ oneart_note = {
             },
             "time": "8시 40분"
         },
+    ],
+    "중학교":[
+        {
+            "name": "귀인중",
+            "pics": [
+                "md_gw_front.png",
+                "md_gw_back.png",
+                "md_gw_map.png"
+            ],
+            "ratio": {
+                "front": 50,
+                "back": 50
+            },
+            "worker": 2,
+            "numOfStdnt": {
+                "2024": 1167,
+            },
+            "time": "9시"
+        },
+        {
+            "name": "평촌중",
+            "pics": [
+                "md_pc_front.png",
+                "md_pc_back.png",
+                "md_pc_map.png"
+            ],
+            "ratio": {
+                "front": 40,
+                "back": 60,
+            },
+            "worker": 1,
+            "numOfStdnt": {
+                "2024": 1271,
+            },
+            "time": "9시"
+        },
+        {
+            "name": "대안중",
+            "pics": [
+                "md_da_front.png",
+                "md_da_map.png"
+            ],
+            "ratio": {
+                "front": 100,
+            },
+            "worker": 1,
+            "numOfStdnt": {
+                "2024": 539,
+            },
+            "time": "9시"
+        },
+        {
+            "name": "대안여중",
+            "pics": [
+                "md_day_front.png",
+                "md_day_map.png"
+            ],
+            "ratio": {
+                "front": 100,
+                "back":0
+            },
+            "worker": 1,
+            "numOfStdnt": {
+                "2024": 571,
+            },
+            "time": "9시"
+        },
+
     ]
 }
